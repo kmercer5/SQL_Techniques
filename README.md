@@ -15,7 +15,7 @@ In preparation for success planning, the AVP of Lending is reviewing the lending
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="203" alt="Image" src="https://github.com/user-attachments/assets/6890fef1-daa2-4d67-993e-a9b23dfb4a9f" />
+<img width="203" height="113" alt="Image" src="https://github.com/user-attachments/assets/4743bd2a-4fa4-4582-94ad-499d6edc16ce" />
 <br />
 <br />
 
@@ -28,7 +28,7 @@ The AVP of Lending would like to now see Personal Loans approved between $10K to
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="229" alt="Image" src="https://github.com/user-attachments/assets/8629967a-0a3b-47ae-bef9-822fced5d6ab" />
+<img width="229" height="116" alt="Image" src="https://github.com/user-attachments/assets/96a1e90d-fdd1-4c50-9717-f586d4b0f491" />
 <br />
 <br />
 
@@ -41,7 +41,7 @@ Finance is conducting research for our upcoming Fed stress test. They are asking
 ###
 <p align="center">
 Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
-<img width="290" alt="Image" src="https://github.com/user-attachments/assets/77479544-73f5-4b08-849c-de567d3c2af5" />
+<img width="290" height="74" alt="Image" src="https://github.com/user-attachments/assets/3d80f09c-b035-4960-a0b7-dff08426074c" />
 <br />
 <br />
 
@@ -53,7 +53,7 @@ Samira, a regional branch manager, is evaluating interest impact on long-term mo
 ###
 <p align="center">
 Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
-<img width="341" alt="Image" src="https://github.com/user-attachments/assets/315e1489-1329-4377-ab27-8bd350cdea03" />
+<img width="574" height="205" alt="Image" src="https://github.com/user-attachments/assets/3dd9f632-e4ba-44cb-9d3a-4d3336330cf7" />
 <br />
 <br />
 
@@ -65,7 +65,7 @@ Maya in Customer Success is examining transaction risk around withdrawals. Sheâ€
 ###
 <p align="center">
 Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
-<img width="461" alt="Image" src="https://github.com/user-attachments/assets/19eb3650-e1f4-48b2-8a4d-03161ae1981e" />
+<img width="585" height="201" alt="Image" src="https://github.com/user-attachments/assets/3f8e16d4-e57a-4ed4-ba59-cd344c834543" />
 <br />
 <br />
 
